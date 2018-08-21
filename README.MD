@@ -1,5 +1,7 @@
 # Petualangan Hafidz
 
+Dikembangkan oleh Fukusima Daichi <fukusima.daichi@mmail.com>
+
 1. Siswa dapat mendeskripsikan barisan dan deret geometri bedasarkan ciri-cirinya.
 2. Siswa dapat menentukan suku ke-n barisan geometri menggunakan n rumus.
 2. Siswa dapat menentukan jumlah n suku suatu deret geometri menggunakan n rumus.
